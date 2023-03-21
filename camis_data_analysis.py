@@ -2,8 +2,6 @@
 """
 Created on Thu Dec 15 10:12:55 2022
 
-@author: samso
-
 We want to know:
 1. Access
     - How many unique teachers have logged into CAMIS in one way or another 
